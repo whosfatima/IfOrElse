@@ -34,9 +34,7 @@ A simple web-based mini project built with HTML, CSS, and JavaScript to check wh
 ## 🌐 Demo
 
 You can try the live demo here:  
-👉 **[Live Demo Link](https://your-demo-link.com)**
-
-> _(Replace the link above with your actual GitHub Pages or hosting URL)_
+    👉 **[Live Demo Link](https://whosfatima.github.io/IfOrElse/)**
 
 ---
 
